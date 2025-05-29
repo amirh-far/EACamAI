@@ -1,0 +1,1 @@
+python detect.py --source ../input.mp4 --weights ../models/yolov5s_best.pt --conf 0.2`
